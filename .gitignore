@@ -4,5 +4,6 @@
 # Personal coaching data — contains stories, scores, interview targets, and concerns
 coaching_state.md
 
-# Active skill file (created by copying SKILL.md during setup)
-CLAUDE.md
+# Active skill file at root (created by copying SKILL.md during setup)
+# Scoped to root only — .claude/CLAUDE.md is the repo session context
+/CLAUDE.md
