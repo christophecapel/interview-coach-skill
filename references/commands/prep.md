@@ -91,22 +91,6 @@ The quality of predicted questions depends entirely on how well you read the JD.
 
 Extract the top 5-7 competencies in priority order and use them to drive question prediction and story mapping.
 
-### First-Round Interview Tactics
-
-Interview coach Erika Gemzer (93% placement rate across 200+ job seekers at Google, Meta, Uber, Airbnb, Stripe, via Lenny's Newsletter) provides a first-round-specific framework — the **Minimum Viable Interview Prep (MVIP)** — that the coach should apply when prepping candidates for phone screens and first rounds:
-
-1. **JD Mirroring**: Paste the JD into a document, highlight keywords, create a two-column table mapping their language to the candidate's experience. When describing experience in the interview, use their language, not yours. This simple technique dramatically increases perceived fit.
-
-2. **Memory Lane, Not Question Bank**: Pick 3-5 recent major projects (last 2-4 years) and remember every detail — context, stakeholders, challenges, decisions, results (quantified). Don't write answers to hundreds of behavioral questions — as Gemzer warns: "This is exhausting and can actually overload your brain and cause you to freeze up or even 'blackout' in an interview." Deep knowledge of 3-5 projects beats shallow prep for 100 questions.
-
-3. **STAR++ Format**: Standard STAR plus two additions — what you **learned** and how you **evolved your approach** in future situations. The "++" is what separates a good answer from a great one.
-
-4. **Three question formats** (candidates should recognize which they're facing): Pure behavioral (70% of questions — "Tell me about a time..."), Theoretical (20% — "How would you approach..."), Situational (10% — "Imagine you're in this scenario..."). Each requires a different response structure.
-
-5. **Time budget for a 45-min interview**: 3-5 min intros, ~35 min interviewer questions, 5-7 min candidate questions. As Gemzer puts it: "Interviews are often won or lost by the questions you ask the interviewer at the end."
-
-The key insight from Lenny's own PM interview guide (via Lenny's Newsletter): **practice is more important than study**. Most candidates over-index on studying frameworks and under-index on actual mock interviews. The coach should push candidates toward `practice` and `mock` early, not let them endlessly prepare in theory.
-
 ### Interview Format Taxonomy
 
 Different formats require fundamentally different prep, pacing, and scoring weights. Identify which format and adjust accordingly:
@@ -159,6 +143,22 @@ For PM candidates facing analytical/metrics interviews, Ben Erez outlines a para
 **NSM definition criteria** (coach should verify candidate's metric selection against these): A valid North Star Metric must be implementable as a single data query, include a specific timeframe (daily/weekly/monthly), grow indefinitely as the product succeeds, and NOT be a ratio or average (these create false positives — "if your NSM increases while your ecosystem actually shrinks, you're getting a false positive"). Example NSMs: "total streaming hours per week" (Spotify), "total completed deliveries per week" (DoorDash).
 
 **Key coaching insight**: "While good candidates can identify relevant metrics, what will set you apart is a cohesive story about healthy growth." The differentiator is ecosystem-first thinking — tracking value creation for all stakeholders, not just one side.
+
+### First-Round Interview Tactics
+
+Interview coach Erika Gemzer (93% placement rate across 200+ job seekers at Google, Meta, Uber, Airbnb, Stripe, via Lenny's Newsletter) provides a first-round-specific framework — the **Minimum Viable Interview Prep (MVIP)** — that the coach should apply when prepping candidates for phone screens and first rounds:
+
+1. **JD Mirroring**: Paste the JD into a document, highlight keywords, create a two-column table mapping their language to the candidate's experience. When describing experience in the interview, use their language, not yours. This simple technique dramatically increases perceived fit.
+
+2. **Memory Lane, Not Question Bank**: Pick 3-5 recent major projects (last 2-4 years) and remember every detail — context, stakeholders, challenges, decisions, results (quantified). Don't write answers to hundreds of behavioral questions — as Gemzer warns: "This is exhausting and can actually overload your brain and cause you to freeze up or even 'blackout' in an interview." Deep knowledge of 3-5 projects beats shallow prep for 100 questions.
+
+3. **STAR++ Format**: Standard STAR plus two additions — what you **learned** and how you **evolved your approach** in future situations. The "++" is what separates a good answer from a great one.
+
+4. **Three question formats** (candidates should recognize which they're facing): Pure behavioral (70% of questions — "Tell me about a time..."), Theoretical (20% — "How would you approach..."), Situational (10% — "Imagine you're in this scenario..."). Each requires a different response structure.
+
+5. **Time budget for a 45-min interview**: 3-5 min intros, ~35 min interviewer questions, 5-7 min candidate questions. As Gemzer puts it: "Interviews are often won or lost by the questions you ask the interviewer at the end."
+
+The key insight from Lenny's own PM interview guide (via Lenny's Newsletter): **practice is more important than study**. Most candidates over-index on studying frameworks and under-index on actual mock interviews. The coach should push candidates toward `practice` and `mock` early, not let them endlessly prepare in theory.
 
 ### Format Discovery Protocol (System Design / Case Study and Technical + Behavioral Mix)
 

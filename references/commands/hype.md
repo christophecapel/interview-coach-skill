@@ -75,15 +75,20 @@ You know these risks. Now set them aside and go execute.
 1. Read this hype reel out loud once.
 2. [Format-specific drill]: Behavioral → pick your weakest story and deliver the 60-second version out loud. Presentation → deliver your opening 30 seconds out loud. System design → practice scoping a simple problem out loud for 60 seconds. Panel → mentally rehearse switching between interviewer styles.
 3. Review the 3x3 above — don't memorize, just refresh.
-4. Physical reset: walk, stretch, breathe. Multiple techniques from Lenny's Podcast guests, escalating in intensity:
-   - **Quick reset (5 seconds)**: Physiological sigh — two quick inhales through the nose followed by a long exhale. Works as an emergency mid-interview reset (Jonny Miller, Nervous System Mastery, via Lenny's Podcast).
-   - **Standard pre-interview (1-2 minutes)**: 4-4-8 breathing — inhale 4 counts, hold 4, exhale 8. The key: exhale must be 2x inhale to activate the parasympathetic nervous system. Miller: "I did 15 minutes of this before a TEDx talk and walked on stage almost cool as a cucumber."
-   - **Alternative**: Humming breath — full inhale, hum through the nose until the end of the exhale. Releases nitric oxide, stimulates the vagus nerve.
-   - **Cold stimulus**: Hold something cold (ice water, cold can) — sensory input redirects anxiety circuits (Matt Abrahams, Stanford, via Lenny's Podcast).
-   - **Critical**: Miller emphasizes that these work best when practiced daily for 7-10 days before the interview period begins. "When someone is in that flustered state, remembering to do the practice is the last thing that comes to mind." Daily practice makes it automatic.
-   - **Visual awareness technique (invisible, use during live interview)**: Instead of tunnel-vision focus, soften your gaze and become aware of peripheral space — behind you, to the sides, below. This triggers a calming response without anyone noticing.
-   - **The meta-principle**: Sam Lessin (former VP of Product at Facebook, via Lenny's Podcast) frames it as "showing up with a low heart rate." When your heart rate is low, you project competence, ease, and trustworthiness. When it's high, you project desperation — regardless of qualifications. Be early, settle your nervous system, enter the room from calm rather than racing in. His reframe: "This isn't your one shot. You'll have other opportunities. Show up with the self-confidence and the calm of abundance."
+4. Physical reset: walk, stretch, breathe. Quick option: physiological sigh — two quick inhales through the nose, long exhale (5 seconds). Standard: 4-4-8 breathing — inhale 4, hold 4, exhale 8 (Jonny Miller, Nervous System Mastery, via Lenny's Podcast). Hold something cold (ice water, cold can) to redirect anxiety circuits (Matt Abrahams, Stanford, via Lenny's Podcast). See Breathing & State Management Reference below for the full toolkit.
 5. Reframe: "This is a conversation to see if there's mutual fit. I'm also interviewing them." Executive presence coach Tristan de Montebello (Ultraspeaking, via Lenny's Podcast) frames this as "staying in character" — decide who you are in this interview before you walk in. Not performing confidence, but accessing a specific mode: the expert version of yourself for this conversation. As de Montebello puts it: "Speaking is not a specialized skill, it's a meta skill" — the confidence transfers to every interaction.
+
+### Breathing & State Management Reference
+
+These techniques come from multiple experts on Lenny's Podcast. The coach should select the appropriate technique based on the candidate's anxiety profile and the time available:
+
+- **Physiological sigh (5 seconds)**: Two quick inhales through the nose followed by a long exhale. Emergency mid-interview reset — can be done invisibly during a pause (Jonny Miller, Nervous System Mastery).
+- **4-4-8 breathing (1-2 minutes)**: Inhale 4 counts, hold 4, exhale 8. The key: exhale must be 2x inhale to activate the parasympathetic nervous system. Miller: "I did 15 minutes of this before a TEDx talk and walked on stage almost cool as a cucumber." Adjust ratio to lung capacity (3-3-6 or 2-2-4 work too).
+- **Humming breath**: Full inhale, hum through the nose until the end of the exhale. Releases nitric oxide, stimulates the vagus nerve. Good for calming before clicking into a video call.
+- **Cold stimulus**: Hold something cold (ice water, cold can) — sensory input redirects anxiety circuits (Matt Abrahams, Stanford).
+- **Visual awareness (invisible, use during live interview)**: Instead of tunnel-vision focus, soften your gaze and become aware of peripheral space — behind you, to the sides, below. Triggers a calming response without anyone noticing (Miller).
+- **Pre-interview practice**: Miller emphasizes that these work best when practiced daily for 7-10 days before the interview period begins. "When someone is in that flustered state, remembering to do the practice is the last thing that comes to mind." Daily practice makes it automatic.
+- **The "low heart rate" principle**: Sam Lessin (former VP of Product at Facebook, via Lenny's Podcast) frames the meta-goal as "showing up with a low heart rate." When your heart rate is low, you project competence, ease, and trustworthiness. When it's high, you project desperation — regardless of qualifications. Be early, settle your nervous system, enter the room from calm. His reframe: "This isn't your one shot. You'll have other opportunities. Show up with the self-confidence and the calm of abundance."
 
 ## If You Bomb an Answer Mid-Interview
 [Inlined recovery guidance — acknowledge, pivot, and re-engage]

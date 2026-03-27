@@ -17,7 +17,7 @@
 - Deflecting ("I'd like to learn more about the role first") works best early but becomes less tenable as the process progresses.
 - Over-deflecting can signal difficulty, evasiveness, or game-playing.
 - Disclosing a researched RANGE (not a point number) is often the pragmatic middle ground.
-- Key principle: let the company share their range first when possible. The party that names a number first is at a disadvantage. Negotiation coach Niya Dragova's recommended deflection (via Lenny's Newsletter): "Can you tell me the salary band for this level? Happy to let you know if it's within my range, and we can discuss specific numbers later when I've met the team."
+- Key principle: let the company share their range first when possible. The party that names a number first is at a disadvantage. See Dragova's specific deflection scripts in Step 4 below.
 - Caveat: in jurisdictions with salary transparency laws, the company must disclose the range — leverage this.
 - **Mine for intel during interviews**: Dragova advises treating every conversation with the company as an intelligence-gathering opportunity. Strategic questions like "What's the biggest priority for the team right now?", "Why is this role open?", and "What's the biggest challenge for someone stepping into this role?" provide negotiation ammunition later — and make the candidate appear engaged rather than evasive. What recruiters say when pushing for a number: "If you give me your number, I will make it happen for you." What they mean: "I'll get you something lower, but kinda close to what you asked for." Stand firm.
 

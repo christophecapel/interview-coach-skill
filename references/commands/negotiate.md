@@ -45,17 +45,15 @@ At companies with 5,000+ employees, compensation is heavily formulaic — a sepa
 
 For candidates pursuing senior roles or large comp packages, apply executive comp coach Jacob Warwick's GAINS framework, developed from 3,500+ executive coaching engagements (via Lenny's Newsletter). This is especially relevant for Director+ roles where the negotiation is multi-stakeholder:
 
-**G — Gather Intelligence**: Before the negotiation conversation, map three domains: (1) organization dynamics — real power flows, who gets consulted before decisions, which past failures haunt leadership; (2) decision-maker psychology — what motivates each key player, formative experiences that shaped their leadership philosophy; (3) strategic pain points — where the company is headed in 6 months, which initiatives have underdelivered.
+**G — Gather Intelligence**: Map organization dynamics (real power flows, past failures haunting leadership), decision-maker psychology (what motivates each key player), and strategic pain points (where the company is headed in 6 months, which initiatives have underdelivered).
 
-**A — Align with Advocates**: Build internal champions before asking for money. Three tactics: (1) share raw, relevant stories — the "messy middle" of past challenges, not polished highlight reels; (2) ask bold questions others tiptoe around — this signals strategic thinking; (3) "sell the vacation" — paint a vivid 30/90/180-day picture of what success looks like after the candidate joins, with specific metrics. As Warwick puts it: "While most candidates ask, 'What can you offer me?,' top earners demonstrate 'Here's how I'll solve your most pressing challenges.'"
+**A — Align with Advocates**: Build internal champions before asking for money. Share the "messy middle" of past challenges (not polished highlight reels), ask bold questions others tiptoe around, and "sell the vacation" — paint a vivid 30/90/180-day picture of what success looks like after joining. As Warwick puts it: "While most candidates ask, 'What can you offer me?,' top earners demonstrate 'Here's how I'll solve your most pressing challenges.'"
 
-**I — Influence Key Stakeholders**: Customize stories for each stakeholder's priorities. Turn potential blockers into advocates by asking for their input rather than trying to impress. Deliver small pieces of value before being hired — share relevant insights or thoughtful analysis rather than generic thank-you notes.
+**I — Influence Key Stakeholders**: Customize stories for each stakeholder's priorities. Turn blockers into advocates by asking for their input. Deliver small pieces of value before being hired — thoughtful analysis, not generic thank-you notes.
 
-**N — Navigate Complexity**: Signal excitement while creating space for discussion. Use questions instead of demands. Practice strategic patience — as Warwick warns: "Rushed negotiations almost always leave money on the table. Haste equals risk."
+**N — Navigate Complexity**: Signal excitement while creating space for discussion. Use questions instead of demands. Practice strategic patience: "Rushed negotiations almost always leave money on the table. Haste equals risk."
 
-**S — Secure Success**: Involve an employment attorney for significant packages. Question every vague term ("significant equity," "performance-based bonus"). Get verbal promises in writing. Start delivering value before day one.
-
-The core mindset shift is from "auditioner" to "peer." As Warwick frames it: "Instead of proving yourself worthy, you're evaluating mutual fit and demonstrating understanding." This changes posture, tone, and language — and how decision-makers perceive the candidate's value.
+**S — Secure Success**: Involve an employment attorney for significant packages. Question every vague term ("significant equity," "performance-based bonus"). Get verbal promises in writing.
 
 #### The Psychology of Asking
 
@@ -69,13 +67,13 @@ Berger's "Articulate, Ask, Accept" framework:
 3. **Accept** the response (which is usually no) and learn from it
 4. **Try again** — iterate. Negotiation is a discovery process, not a one-shot event
 
-As Berger puts it: "Often when the stakes feel high, we're focused more on the fear of what we don't want to happen than on actually achieving what we do want." The coach should help the candidate shift from fear-avoidance to goal-pursuit. And when evaluating offers: apply Berger's "Hell Yes or No" standard — "It's not a yes unless it's a hell yes." Settling for lukewarm acceptance leads to regret.
+As Berger puts it: "Often when the stakes feel high, we're focused more on the fear of what we don't want to happen than on actually achieving what we do want." The coach should help the candidate shift from fear-avoidance to goal-pursuit. And when evaluating offers: apply the "Hell Yes or No" standard (which Berger references) — "It's not a yes unless it's a hell yes." Settling for lukewarm acceptance leads to regret.
 
 ### Negotiation Anxiety Coaching
 
 Many candidates accept weak offers not because they lack strategy, but because the conversation feels confrontational. As Niya Dragova puts it (via Lenny's Newsletter): "Compensation is set up to be intentionally misleading. Partially it's because sticking up for yourself is nerve-racking AF." Address the emotional side directly:
 - **Normalize it**: "Almost everyone feels uncomfortable negotiating. That discomfort is not a reason to skip it — it's a sign you care about the outcome." Dragova's framing: "The reason we have to play this game is because, like it or not, everyone else is playing it. And you're probably losing — on salary, equity, and promotions." The company expects negotiation — especially at larger companies — and reasonable negotiation rarely creates hard feelings.
-- **Reframe the dynamic**: "You're not asking for a favor. The company chose you and wants you to accept. You have leverage right now — more than you'll have once you've signed." For senior candidates, Jacob Warwick's reframe is sharper (via Lenny's Newsletter): shift from "auditioner" to "peer" — "Are you trying to impress because you don't think you belong in the room, or are you creating alignment because you know you belong there?"
+- **Reframe the dynamic**: "You're not asking for a favor. The company chose you and wants you to accept. You have leverage right now — more than you'll have once you've signed." For senior candidates, apply the "auditioner to peer" mindset shift from the GAINS framework above.
 - **Practice the opening**: Role-play the first 30 seconds of the negotiation call. That's where most candidates freeze. Script it and rehearse it.
 - **Name the fear**: Ask "What's the worst thing you think could happen if you negotiate?" Then reality-check it — offers are almost never rescinded for reasonable negotiation.
 - **Phone, not email**: Dragova advises: "Negotiating via email = MAJOR CRINGE and definitely a worse outcome." Phone conversations allow real-time rapport, tone reading, and collaborative problem-solving. Email flattens the interaction into a transactional exchange.

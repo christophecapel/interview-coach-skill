@@ -115,7 +115,7 @@ Certain interview question categories appear so frequently that candidates shoul
 
 **Giving/receiving feedback stories**: One of the most common behavioral categories. Kim Scott's Radical Candor framework (via Lenny's Podcast) gives candidates a structured lens: the best feedback stories demonstrate caring personally while challenging directly. The ideal answer structure: "Here's how I showed I cared about the person, here's how I challenged directly, and here's what happened." Coach candidates to avoid describing "ruinous empathy" (being too nice to give feedback) as a strength — experienced interviewers recognize it as a red flag. Scott's go-to question — "What could I do or stop doing that would make it easier to work with me?" — is itself strong interview material for demonstrating vulnerability and systematic thinking.
 
-**Difficult colleague/conflict stories**: Another top category. Executive coach Anneka Gupta emphasizes (via Lenny's Podcast) that the strongest answers show the candidate understood the other person's perspective, not just their own frustration.
+**Difficult colleague/conflict stories**: Another top category. Product leader Anneka Gupta emphasizes (via Lenny's Podcast) that the strongest answers show the candidate understood the other person's perspective, not just their own frustration.
 
 ### Narrative Identity — Theme Extraction
 
